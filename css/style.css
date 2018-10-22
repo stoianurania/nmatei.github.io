@@ -2,7 +2,7 @@ body {
   background-color: #f5f5f5;
 }
 
-.test {
+.test1 {
   border: 5px solid #000;
   margin: 2px;
   padding: 2px;
@@ -18,7 +18,7 @@ body {
 
 #content {
   border-color: green;
-  padding-left: 30%;
+  padding-left: 33%;
 }
 #content div {
   border-color: lightgreen;
